@@ -1,0 +1,16 @@
+.square {
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 5px;
+    font-family: 'Permanent Marker', cursive;
+    margin-right: -1px;
+    margin-top: -1px;
+    float: left;
+}
+
+  
+  .square:focus {
+    outline: none;
+  }

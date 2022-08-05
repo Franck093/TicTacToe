@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Permanent+Marker&display=swap');
+
+.app {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  padding: 50px;
+}
+
+.app h1 {
+  padding: 100px auto;
+  color: #EB00FF;
+  font-size: 60px;
+}
+
+

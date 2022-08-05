@@ -1,0 +1,31 @@
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  body {
+    color: #00E0FF;
+  }
+
+  .resetButton {
+    margin-top: 30px;
+    padding: 5px 25px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 18px;
+    color: #EB00FF;
+    background-color: black;
+    border: 1px solid #EB00FF;
+    border-radius: 5px;
+  }
+
+  .resetButton:hover {
+    font-weight: bold;
+    background-color: #EB00FF;
+    color: black;
+  }
