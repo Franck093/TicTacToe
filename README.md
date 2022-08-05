@@ -8,7 +8,7 @@ The famous Tic Tac Toe Game! You can try it at [https://franck093.github.io/tict
 
 To start the app, first run `npm install` and then `npm start`. A new window will open on [http://localhost:3000](http://localhost:3000).
 
-##Technologies
+## Technologies
 
 I coded this project with ReactJS.
 
@@ -16,6 +16,6 @@ The Tic Tac Toe game is a popular project to start with ReactJS. Here, I chose t
 
 This project was created through [https://github.com/facebook/create-react-app](Create-React-App).
 
-##Design
+## Design
 
 I was inspired by the design of the video game Hotline Miami to create this retro design.
