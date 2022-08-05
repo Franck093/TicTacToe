@@ -4,6 +4,8 @@
 
 The famous Tic Tac Toe Game! You can try it at [https://franck093.github.io/tictactoe/](https://franck093.github.io/tictactoe/)
 
+![TicTacToe Gif](https://github.com/Franck093/tictactoe/tree/main/img/tictactoe.gif)
+
 ## How To
 
 To start the app, first run `npm install` and then `npm start`. A new window will open on [http://localhost:3000](http://localhost:3000).
