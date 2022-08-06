@@ -4,7 +4,7 @@
 
 The famous Tic Tac Toe Game! You can try it at [https://franck093.github.io/tictactoe/](https://franck093.github.io/tictactoe/)
 
-<img src="./img/tictactoe.gif" />
+<img src="./img/tictactoe.gif" width=100px height=130px />
 
 ## How To
 
