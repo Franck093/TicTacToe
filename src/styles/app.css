@@ -12,10 +12,3 @@
   font-size: 60px;
 }
 
-@media only screen and (max-width: 1080px) {
-  .app h1 {
-    padding: 100px auto;
-    color: #EB00FF;
-    font-size: 20px;
-  }
-}

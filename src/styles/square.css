@@ -14,17 +14,3 @@
   .square:focus {
     outline: none;
   }
-
-  @media only screen and (max-width: 1080px) {
-    .square {
-      width: 30px;
-      height: 30px;
-      font-size: 20px;
-      background-color: white;
-      border-radius: 5px;
-      font-family: 'Permanent Marker', cursive;
-      margin-right: -1px;
-      margin-top: -1px;
-      float: left;
-    }
-  }
