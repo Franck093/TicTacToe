@@ -17,8 +17,8 @@
 
   @media only screen and (max-width: 1080px) {
     .square {
-      width: 80px;
-      height: 80px;
+      width: 50px;
+      height: 50px;
       font-size: 20px;
       background-color: white;
       border-radius: 5px;
